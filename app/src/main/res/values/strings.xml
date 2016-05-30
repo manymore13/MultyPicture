@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MultyPicture</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="img_url_array">
+        <!--<item>http://img4.duitang.com/uploads/item/201404/30/20140430215752_hG8cM.thumb.224_0.jpeg</item>
+        <item>http://img4.duitang.com/uploads/item/201404/30/20140430215752_hG8cM.thumb.224_0.jpeg</item>
+        <item>http://img4.duitang.com/uploads/item/201404/30/20140430215752_hG8cM.thumb.224_0.jpeg</item>
+        <item>http://img4.duitang.com/uploads/item/201404/30/20140430215752_hG8cM.thumb.224_0.jpeg</item>
+        <item>http://img4.duitang.com/uploads/item/201404/30/20140430215752_hG8cM.thumb.224_0.jpeg</item>
+        <item>http://img4.duitang.com/uploads/item/201404/30/20140430215752_hG8cM.thumb.224_0.jpeg</item>
+        <item>http://img4.duitang.com/uploads/item/201404/30/20140430215752_hG8cM.thumb.224_0.jpeg</item>
+        <item>http://img4.duitang.com/uploads/item/201404/30/20140430215752_hG8cM.thumb.224_0.jpeg</item>-->
+        <item>http://img4.duitang.com/uploads/item/201404/30/20140430215752_hG8cM.thumb.224_0.jpeg</item>
+        <item>http://img4.duitang.com/uploads/item/201302/04/20130204225615_dYiN8.thumb.224_0.jpeg</item>
+        <item>http://img5.duitang.com/uploads/blog/201502/21/20150221210124_rfEcC.thumb.224_0.jpeg</item>
+        <item>http://cdn.duitang.com/uploads/blog/201505/13/20150513214854_EWwGk.thumb.224_0.jpeg</item>
+        <item>http://img5.duitang.com/uploads/item/201602/15/20160215160227_mZ8xs.thumb.700_0.jpeg</item>
+        <item>http://cdn.duitang.com/uploads/item/201510/08/20151008095254_ju3cK.thumb.700_0.jpeg</item>
+        <item>http://cdn.duitang.com/uploads/item/201509/07/20150907064305_yxWvF.thumb.224_0.jpeg</item>
+        <item>http://cdn.duitang.com/uploads/item/201505/21/20150521131411_E2QrY.thumb.224_0.jpeg</item>
+        <item>http://img5.duitang.com/uploads/item/201505/06/20150506123733_KFVyA.thumb.224_0.jpeg</item>
+    </string-array>
+</resources>
