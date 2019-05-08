@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * @author manymore13
  * @version V1.0
- * @company 跨越速运
  * @Description MultyAdapter
  * @date 2016/3/22
  */
